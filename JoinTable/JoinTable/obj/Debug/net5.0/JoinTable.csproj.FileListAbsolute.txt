@@ -290,3 +290,5 @@ C:\Users\sadia\OneDrive\Desktop\Work\StudentMangement\JoinTable\JoinTable\obj\De
 C:\Users\sadia\OneDrive\Desktop\Work\StudentMangement\JoinTable\JoinTable\obj\Debug\net5.0\ref\JoinTable.dll
 C:\Users\sadia\OneDrive\Desktop\Work\StudentMangement\JoinTable\JoinTable\obj\Debug\net5.0\JoinTable.pdb
 C:\Users\sadia\OneDrive\Desktop\Work\StudentMangement\JoinTable\JoinTable\obj\Debug\net5.0\JoinTable.genruntimeconfig.cache
+C:\Users\sadia\OneDrive\Desktop\Work\StudentMangement\JoinTable\JoinTable\obj\Debug\net5.0\JoinTable.csprojAssemblyReference.cache
+C:\Users\sadia\OneDrive\Desktop\Work\StudentMangement\JoinTable\JoinTable\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
