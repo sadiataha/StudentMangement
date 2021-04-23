@@ -5,13 +5,13 @@ using System.Collections.Generic;
 
 namespace JoinTable.Models
 {
-    public partial class TblEmployee
+    public partial class Employee
     {
         public int Empid { get; set; }
         public string EmpName { get; set; }
         public string EmpPhone { get; set; }
         public int? EmpDept { get; set; }
 
-        public virtual TblDepartment EmpDeptNavigation { get; set; }
+        public virtual Department EmpDeptNavigation { get; set; }
     }
 }
