@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadia\\Downloads\\JoinTable\\JoinTable\\JoinTable\\JoinTable.csproj": {}
+    "C:\\Users\\sadia\\OneDrive\\Desktop\\Work\\StudentMangement\\JoinTable\\JoinTable\\JoinTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadia\\Downloads\\JoinTable\\JoinTable\\JoinTable\\JoinTable.csproj": {
+    "C:\\Users\\sadia\\OneDrive\\Desktop\\Work\\StudentMangement\\JoinTable\\JoinTable\\JoinTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadia\\Downloads\\JoinTable\\JoinTable\\JoinTable\\JoinTable.csproj",
+        "projectUniqueName": "C:\\Users\\sadia\\OneDrive\\Desktop\\Work\\StudentMangement\\JoinTable\\JoinTable\\JoinTable.csproj",
         "projectName": "JoinTable",
-        "projectPath": "C:\\Users\\sadia\\Downloads\\JoinTable\\JoinTable\\JoinTable\\JoinTable.csproj",
+        "projectPath": "C:\\Users\\sadia\\OneDrive\\Desktop\\Work\\StudentMangement\\JoinTable\\JoinTable\\JoinTable.csproj",
         "packagesPath": "C:\\Users\\sadia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadia\\Downloads\\JoinTable\\JoinTable\\JoinTable\\obj\\",
+        "outputPath": "C:\\Users\\sadia\\OneDrive\\Desktop\\Work\\StudentMangement\\JoinTable\\JoinTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
