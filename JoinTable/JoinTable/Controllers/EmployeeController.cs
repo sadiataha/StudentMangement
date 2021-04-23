@@ -27,6 +27,7 @@ namespace JoinTable.Controllers
         // GET: EmployeeController/Create
         public ActionResult Create()
         {
+            var x = 1;
             return View();
         }
 
