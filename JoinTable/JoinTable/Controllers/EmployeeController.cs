@@ -14,8 +14,8 @@ namespace JoinTable.Controllers
         public ActionResult Index()
         {
             var result = db.TblEmployees;
-            List<TblEmployee> lists = result.Include(x => x.EmpDeptNavigation).ToList();
-            return View(lists);
+            List<TblEmployee> query = result.Include(x => x.EmpDeptNavigation).ToList();
+            return View(query);
         }
 
 
