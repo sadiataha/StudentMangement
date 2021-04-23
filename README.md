@@ -1,0 +1,2 @@
+# StudentMangement
+Ef Core Project
